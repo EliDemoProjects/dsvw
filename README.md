@@ -23,7 +23,7 @@ and navigate your browser to http://127.0.0.1:65412/:
 
 ![DSVW](http://i.imgur.com/9nG4mwu.png)
 
-Requirements
+Requirements c
 ----
 
 Python (**3.x**) is required for running this program. Items *XML External Entity (local)*, *XML External Entity (remote)* and *Blind XPath Injection (boolean)* require installation of `python-lxml` (e.g. `apt-get install python-lxml`). Otherwise, those will be disabled.
